@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Aaditi%20Malhotra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20RAG%20Systems%20Builder&descSize=18&descAlignY=55)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=650&lines=Engineering+AI-powered+RAG+systems;FastAPI+%2B+LangChain+%2B+Gemini;Turning+data+into+explainable+insights;Always+learning%2C+always+building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=650&lines=Engineering+AI-zpowered+RAG+systems;FastAPI+%2B+LangChain+%2B+Gemini;Turning+data+into+explainable+insights;Always+learning%2C+always+building" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=Aaditi2205&label=Profile%20Views&color=6a11cb&style=flat" alt="Profile views" />
 <a href="https://www.linkedin.com/in/aaditi-malhotra-772797325/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
