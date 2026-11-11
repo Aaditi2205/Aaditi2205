@@ -54,7 +54,7 @@ AI-powered corporate compliance platform enabling document ingestion, semantic s
 - Integrated a RAG pipeline over legal documents, **improving audit accuracy by 35%**
 - Containerized the full application with Docker for reproducible deployment
 
-**🔗 Repo:** https://github.com/Aaditi2205/FinReg-Final
+**🔗 Repo:** https://github.com/Aaditi2205/Finreg--
 
 <br>
 
